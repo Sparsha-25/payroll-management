@@ -1,0 +1,6 @@
+{
+  "name": "AI Payroll & Employee Analytics",
+  "description": "An enterprise-grade, high-fidelity payroll management and employee analytics dashboard system with real-time AI insights, forecasting, automated tax calculation, attendance calendar, and professional payslip generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
